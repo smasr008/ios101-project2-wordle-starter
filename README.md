@@ -1,6 +1,5 @@
-# ios101-project2-wordle-starter
-# Project 2 - *Name of App Here*
 
+# Project 2 - ios101-project2-wordle-starter
 Submitted by: Samira Kazma Masri
 
 Wordle is an app that takes in 6 different strings and players have these attempts to guess the hidden word.
